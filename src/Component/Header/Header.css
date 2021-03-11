@@ -1,0 +1,15 @@
+.headerStyle{
+    background-image: url("https://image.freepik.com/free-photo/lights-night-stadium-sport-background-3d-render_41667-230.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: 60vh;
+    
+
+}
+h1{
+    text-align: center;
+    color: white;
+    padding-top: 100px;
+    font-size: 80px;
+    
+}

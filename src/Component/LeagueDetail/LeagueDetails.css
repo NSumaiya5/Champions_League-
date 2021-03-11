@@ -1,0 +1,52 @@
+
+.league-img{
+     width: 20%;
+     margin-right: 30px;
+
+}
+.league-img img{
+    width:450px;
+    height: 300px;
+    margin-top:20px;
+   
+  }
+
+  .description-design{
+      text-align:justify;
+      margin: 0px 100px;
+    
+  }
+  .social-icon {
+    text-align: center;
+    background-color: rgb(6, 6, 34);
+    padding: 20px;
+}
+
+.social-icon a {
+    padding: 10px;
+    margin-bottom: 5px;
+    padding-bottom: 10px;
+}
+.logo img{
+    background-color: rgb(214, 214, 245);
+    padding:5px;
+    height: 200px;
+    width: 300px;
+    margin-left: 600px ;
+   
+}
+.row-detail{
+    display: flex;
+    background-color: rgb(9, 9, 92);
+    padding: 20px;
+    border-radius: 1.5em;
+    margin-top: 50px; 
+}
+
+.detailsLogo{
+    margin-left: 320px;
+}
+    .image-league img{
+        width: 800px;
+        height: 250px;
+    }
